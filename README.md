@@ -28,7 +28,7 @@ This project was completed as part of my CourseCareers Information Technology tr
 | Operating System | Windows 11 Pro |
 | Virtual Machine Name | vm-it-portfolio |
 | Resource Group | rg-it-portfolio |
-| VM Size | Standard_B2ms |
+| VM Size | Standard_D2ds_v7 |
 | Virtual CPUs | 2 |
 | RAM | 8 GB |
 | Deployment Method | Azure Portal |
@@ -85,7 +85,7 @@ The Basics tab allowed me to select the operating system and configure the virtu
 
 Next, I selected the hardware configuration for my virtual machine.
 
-I chose **Standard_B2ms**, which includes:
+I chose **Standard_D2ds_v7**, which includes:
 
 - 2 virtual CPUs
 - 8 GB of RAM
