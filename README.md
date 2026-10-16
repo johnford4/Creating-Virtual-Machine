@@ -68,6 +68,7 @@ I clicked Create and selected **Azure virtual machine** to begin the setup proce
 On the Basics tab, I entered the information needed to create my virtual machine.
 
 I created a resource group to organize the resources associated with my project.
+to create the resource group i clicked new and typed the name i wanted for it, you can also before creating virtual machine search "resource groups" in search bar and create from there as wel. in this instance i created it from the virtual machine creation.
 
 I configured the following settings:
 
@@ -88,7 +89,6 @@ I chose **Standard_D2ds_v7**, which includes:
 - 2 virtual CPUs
 - 8 GB of RAM
 
-I selected this configuration for my Windows 11 virtual machine deployment project.
 
 
 ## Step 6: Configuring Networking
