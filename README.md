@@ -89,6 +89,9 @@ I chose **Standard_D2ds_v7**, which includes:
 - 2 virtual CPUs
 - 8 GB of RAM
 
+i then created a username and passowrd for the virual machine.
+i left the port default for RDP (3389) 
+proceeded to click confirm in the bottom left of screen.
 
 
 ## Step 6: Configuring Networking
