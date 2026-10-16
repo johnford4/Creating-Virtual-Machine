@@ -114,11 +114,12 @@ i did not change anything in here. Just made sure my virtual machine, subnet & p
 I proceeded through the networking settings before reviewing the deployment.
 
 *SKIPPED EVERYTHING ELSE* except REVIEW AND CREATE.
+*did not need to change anything else moving forward for my machine*
 
 ## Step 7: Reviewing the Virtual Machine
 <img width="805" height="1149" alt="7 VM-Review-And-Create" src="https://github.com/user-attachments/assets/b8ec8279-08da-42ab-b4fb-969f0f4855f7" />
 
-After completing the configuration screens, I selected **Review + create**.
+After completing the NETWORK configuration screens, I selected **Review + create**.
 
 This allowed me to review the virtual machine configuration before deployment.
 
