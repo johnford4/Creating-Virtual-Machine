@@ -138,12 +138,3 @@ Once the deployment finished, Azure displayed the message:
 This confirmed that the virtual machine had been successfully deployed.
 
 ---
-
-## Project Results
-
-I successfully created and deployed a Windows 11 virtual machine using Microsoft Azure.
-
-Throughout this project, I gained experience navigating the Azure portal, creating a resource group, selecting a Windows operating system, choosing a virtual machine size, reviewing storage and networking options, and completing the deployment process.
-
-The project focused on deploying the virtual machine rather than connecting to it through Remote Desktop.
-
