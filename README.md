@@ -93,6 +93,7 @@ i then created a username and passowrd for the virual machine.
 i left the port default for RDP (3389) 
 proceeded to click confirm in the bottom left of screen.
 
+*SKIPPED DISK*
 
 ## Step 6: Configuring Networking
 <img width="808" height="1178" alt="06-VM-Networking-Configuration" src="https://github.com/user-attachments/assets/adb99554-60f6-48cf-a500-e5fbaae551a7" />
@@ -108,9 +109,11 @@ The Networking tab includes options for:
 - Public IP addresses
 - Network security groups
 - Inbound network ports
+i did not change anything in here. Just made sure my virtual machine, subnet & public ip Address were all aligned and on same thing.
 
 I proceeded through the networking settings before reviewing the deployment.
 
+*SKIPPED EVERYTHING ELSE* except REVIEW AND CREATE.
 
 ## Step 7: Reviewing the Virtual Machine
 <img width="805" height="1149" alt="7 VM-Review-And-Create" src="https://github.com/user-attachments/assets/b8ec8279-08da-42ab-b4fb-969f0f4855f7" />
