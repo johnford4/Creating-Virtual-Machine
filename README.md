@@ -9,8 +9,6 @@ In this project, I used Microsoft Azure to create and deploy a Windows 11 virtua
 
 The purpose of this project was to gain hands-on experience with cloud computing and learn how to create and configure a virtual machine using the Microsoft Azure portal.
 
-This project was completed as part of my CourseCareers Information Technology training.
-
 ## Technologies Used
 
 - Microsoft Azure
